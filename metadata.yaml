@@ -1,0 +1,41 @@
+_repo: Young-Grandison-Vol-2-of-2-A-series-of-letters-from-young-persons-to-their-friends-Translated__69736
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wollstonecraft, Mary
+    aliases:
+    - Cresswick, Mr.
+    - Godwin, Mary Wollstonecraft
+    birthdate: 1759
+    deathdate: 1797
+    gutenberg_agent_id: '84'
+    url: http://www.gutenberg.org/2009/agents/84
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft
+creator:
+  author:
+    agent_name: Cambon, Madame de (Maria Geertruida van de Werken)
+    aliases:
+    - Cambon, Maria Geertruida van de Werken de
+    - De Cambon, Madame (Maria Geertruida van de Werken)
+    gutenberg_agent_id: '54789'
+    url: http://www.gutenberg.org/2009/agents/54789
+description: ''
+gutenberg_issued: '2023-01-07'
+identifiers:
+  gutenberg: '69736'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/100123395
+pgterms:marc905: 20201220224841cambon
+pgterms:marc906: '1790'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: 'United Kingdom: J. Johnson,1790.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Young Grandison, Vol. 2 (of 2): A series of letters from young persons to
+  their friends. Translated from the Dutch.'
+url: http://www.gutenberg.org/ebooks/69736
