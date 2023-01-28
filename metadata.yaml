@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '84'
     url: http://www.gutenberg.org/2009/agents/84
     wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft
+covers:
+- cover_type: archival
+  image_path: 69736-h/images/cover.jpg
 creator:
   author:
     agent_name: Cambon, Madame de (Maria Geertruida van de Werken)
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '54789'
     url: http://www.gutenberg.org/2009/agents/54789
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69736#Young-Grandison-Vol-2-of-2-A-series-of-letters-from-young-persons-to-their-friends-Translated_
 gutenberg_issued: '2023-01-07'
 identifiers:
   gutenberg: '69736'
